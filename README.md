@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lanawwas
-- 👀 I’m interested in Data Governance, JASP, STATA, R, SQL, jQuery, MATLAB, Python, IBM SPSS, ODK, Symantec web and GraphDB
-- 🌱 I’m currently learning French, Statistics, Economics, Development Policy, Cassandra, Spark, Scala and NoSQL
+- 👀 I’m interested in Open Source, Data Governance and Policy Development. 
+- 👨‍💻 Tech stack: BASH, Python, JAVA, PHP, JASP, STATA, R, SQL, NoSQL, jQuery, MATLAB, IBM SPSS, ODK, Symantec web, RDF, Apache Jena, OWL and 
+- 🌱 I’m currently learning French, Statistics, Economics, Development Policy, Apache Cassandra, Apache Spark, Scala and NoSQL
 
 
 <!---
