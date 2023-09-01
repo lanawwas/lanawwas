@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lanawwas
-- 👀 I’m interested in Open Source, Data Governance, Big Data and Policy Development. 
+- 👋 Hi, I’m @lanawwas | Data Engineer, Mini-MBA, Data Governance, and Big Data! 
+- 👀 I’m interested in Open Source, Data Governance, Big Data, Business Intelligence and Policy Development. 
 - 👨‍💻 Tech stack: BASH, Python, JAVA, PySpark, Hadoop, KNIME, Jupyter Notebook, MongoDB, JASP, STATA, R, SQL, NoSQL, jQuery, MATLAB, IBM SPSS, ODK, Semantic web, Apache Jena and GPT. 
-- 🌱 I’m currently learning French, Statistics, Economics, Development Policy, Apache Cassandra, Apache Spark, Scala and NoSQL
+- 🌱 I’m in a continuous journey in learning: French, Statistics, Economics, Development Policy, Apache Cassandra, PySpark and Scala.
 
 
 <!---
